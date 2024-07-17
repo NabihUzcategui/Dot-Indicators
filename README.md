@@ -1,7 +1,14 @@
 # dot_indicators
 
 A new Flutter project.
-https://github.com/user-attachments/assets/46a64823-6ad7-4373-b4f1-00ec6a4fd2f9
+
+https://github.com/user-attachments/assets/eceb0693-2be1-4475-b78b-c5d12a55c41c   
+
+https://github.com/user-attachments/assets/46a64823-6ad7-4373-b4f1-00ec6a4fd2f9 
+
+https://github.com/user-attachments/assets/7638cbb6-7001-4389-baca-d9bdb55ae79a
+
+
 
 ## Getting Started
 
